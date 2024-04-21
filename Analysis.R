@@ -1,4 +1,4 @@
-setwd("C:/Users/ja12m/OneDrive - Universidad de Alcala/TesisNube/Proyecto/Paper 2 Dieta 2_Dieta_y_preferencias/Datos/ResultadosDieta2/OnlineAccepted")
+setwd("")
 
 # Models to study the changes in the proportions of each prey group ----
 dat <- read.csv("DataDiet.csv")
